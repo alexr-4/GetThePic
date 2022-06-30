@@ -1,5 +1,6 @@
+# GetThePic Android App
 
-<img align="left" src="https://user-images.githubusercontent.com/38278207/159091563-59295dc3-438f-45bf-85ec-36c83c77f760.png" height=400px>
+<img align="left" src="https://user-images.githubusercontent.com/38278207/159091563-59295dc3-438f-45bf-85ec-36c83c77f760.png" height=300px>
 
 ***Business Name***: LuxeSoft S.L
 
@@ -21,4 +22,3 @@
    
 
   
-# GetThePic
